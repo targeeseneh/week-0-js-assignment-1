@@ -78,8 +78,8 @@ while (i < 10) {
   text += "The number is " + i;
   i++;
 }
-```
 while (i < 10);
+```
 + For of loop.
 ```javascript
 let language = "JavaScript";
